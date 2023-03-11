@@ -1,5 +1,4 @@
 import React from "react";
-// import {  } from "../assets";
 import FeedbackCard from "./FeedbackCard";
 import { feedback } from "../constants";
 import styles from "../style";
